@@ -8,4 +8,4 @@ Contains the .exe file and the .ico file needed to run the desktop application w
 Contains the python files needed to run the desktop application to control the device. Run **main.pyw** to open the application. Make sure this file is in the same directory as all the other files in the "desktop-application" foler, aside from the exe file. Alternatively, the exe file cna be ran to open the application, but the exe file has to be in the same directory as the icon.ico file too.
 
 ## microcontroller-firmware
-Contains the .ino file uploaded to the ESP32S3 using the Arduino IDE, and the libraries included in the Arduino IDE which are needed before uploading.
+Contains the .ino file uploaded to the ESP32S3 using the Arduino IDE, and the libraries included in the Arduino IDE which are needed before uploading the .ino file to the MCU.
